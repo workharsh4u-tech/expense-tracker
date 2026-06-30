@@ -6,15 +6,15 @@ A modern and responsive Expense Tracker built using HTML, CSS, and JavaScript. I
 
 ## Features
 
-- ➕ Add Income & Expense Transactions
-- 🗑️ Delete Transactions
-- 🔍 Search Transactions
-- 📂 Filter by Income or Expense
-- 📊 Real-Time Balance Calculation
-- 💵 Total Income & Total Expense Summary
-- 📅 Automatically Stores Date & Time
-- 💾 Local Storage Support (Data remains after page refresh)
-- 📱 Fully Responsive Design
+- Add Income & Expense Transactions
+- Delete Transactions
+- Search Transactions
+- Filter by Income or Expense
+- Real-Time Balance Calculation
+- Total Income & Total Expense Summary
+- Automatically Stores Date & Time
+- Local Storage Support (Data remains after page refresh)
+- Fully Responsive Design
 
 ---
 
