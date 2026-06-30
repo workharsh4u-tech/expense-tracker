@@ -1,10 +1,10 @@
-# 💰 Expense Tracker
+# Expense Tracker
 
-A modern and responsive **Expense Tracker** built using **HTML, CSS, and JavaScript**. It helps users manage their daily income and expenses with data stored permanently in the browser using **Local Storage**.
+A modern and responsive Expense Tracker built using HTML, CSS, and JavaScript. It helps users manage their daily income and expenses with data stored permanently in the browser using **Local Storage**.
 
 ---
 
-## 📌 Features
+## Features
 
 - ➕ Add Income & Expense Transactions
 - 🗑️ Delete Transactions
@@ -18,7 +18,7 @@ A modern and responsive **Expense Tracker** built using **HTML, CSS, and JavaScr
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
@@ -28,7 +28,7 @@ A modern and responsive **Expense Tracker** built using **HTML, CSS, and JavaScr
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Expense-Tracker/
@@ -41,7 +41,7 @@ Expense-Tracker/
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 1. Clone the repository
 
@@ -57,7 +57,7 @@ No installation or dependencies are required.
 
 ---
 
-## 📸 Preview
+## Preview
 
 Add a screenshot here.
 
@@ -69,7 +69,7 @@ screenshots/home.png
 
 ---
 
-## 🎯 How It Works
+## How It Works
 
 1. Enter the transaction name.
 2. Enter the amount.
@@ -85,7 +85,7 @@ screenshots/home.png
 
 ---
 
-## 💾 Local Storage
+## Local Storage
 
 All transactions are stored inside your browser using Local Storage.
 
@@ -93,7 +93,7 @@ This means your data will remain available even after refreshing or reopening th
 
 ---
 
-## 📱 Responsive Design
+## Responsive Design
 
 The application works smoothly on:
 
@@ -104,7 +104,7 @@ The application works smoothly on:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Edit Transaction
 - Monthly Reports
